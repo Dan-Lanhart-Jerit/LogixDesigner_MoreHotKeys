@@ -23,8 +23,8 @@ Additional hot keys for Logix Designer using the AutoHotKey framework.
 
 <h2>Hot Key Dictionary</h2>
 
-**Ctrl+m** - Monitor Tags
-**Ctrl+h** - Edit Tag Properties
-**Ctrl+i** - Open Instruction Logic
-**Ctrl+b** - Finalize All Edits In Program (adjust to fit specific screen)
-**Ctrl+5** - Save As
+* **Ctrl+m** - Monitor Tags
+* **Ctrl+h** - Edit Tag Properties
+* **Ctrl+i** - Open Instruction Logic
+* **Ctrl+b** - Finalize All Edits In Program (adjust to fit specific screen)
+* **Ctrl+5** - Save As
